@@ -28,7 +28,7 @@ const RESUME_EXAMPLES = [
     fileUrl: "resume-example/openresume-resume.pdf",
     description: (
       <span>
-        Created with OpenResume resume builder -{" "}
+        Created with ResumeGPT resume builder -{" "}
         <Link href="/resume-builder">Link</Link>
       </span>
     ),

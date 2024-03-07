@@ -19,7 +19,7 @@ const QAS = [
           time-consuming and error-prone. It is easy to run into formatting
           issues, such as using different bullet points or font styles after
           copying and pasting. On the other hand, a resume builder like
-          OpenResume saves time and prevents formatting mistakes by
+          ResumeGPT saves time and prevents formatting mistakes by
           automatically formatting the resume. It also offers the convenience of
           easily changing font types or sizes with a simple click. In summary, a
           resume builder is easier to use compared to a resume template.
@@ -103,7 +103,7 @@ const QAS = [
             connect us on LinkedIn
           </Link>{" "}
           or{" "}
-          <Link href="https://github.com/Amatun-nooor">
+          <Link href="https://github.com/Amatun-nooor/ResumeGPT">
             open an issue
           </Link>{" "}
           at our Github repository. Whether you like it or not, we would love to
@@ -116,7 +116,7 @@ const QAS = [
           with creating their resume, and your word-of-mouth support would be
           greatly appreciated. If you use Github, you can also show your support
           by{" "}
-          <Link href="https://github.com/Amatun-nooor">
+          <Link href="https://github.com/Amatun-nooor/ResumeGPT/stargazers">
             giving the project a star
           </Link>{" "}
           to help increase its popularity and reach.

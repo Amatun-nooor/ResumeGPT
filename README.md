@@ -54,7 +54,7 @@ ResumeGPT is created with the NextJS web framework and follows its project struc
 ### Method 1: npm
 
 1. Download the repo `git clone `
-2. Change the directory `cd open-resume`
+2. Change the directory `cd resumegpt`
 3. Install the dependency `npm install`
 4. Start a development server `npm run dev`
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see ResumeGPT live
@@ -62,7 +62,7 @@ ResumeGPT is created with the NextJS web framework and follows its project struc
 ### Method 2: Docker
 
 1. Download the repo `git clone 
-2. Change the directory `cd open-resume`
-3. Build the container `docker build -t open-resume .`
-4. Start the container `docker run -p 3000:3000 open-resume`
+2. Change the directory `cd resumegpt`
+3. Build the container `docker build -t resumegpt .`
+4. Start the container `docker run -p 3000:3000 resumegpt`
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see ResumeGPT live
