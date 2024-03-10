@@ -50,13 +50,7 @@ export default function ImportResume() {
             )}
             <h1 className="font-semibold text-gray-900">
                 <SectionWithHeadingAndCreateButton
-                   heading="Import another file"
                    buttonText="Override data with a new resume"
-                   onClick={() => setHasAddedRes
-                   .then(setValue(!_))
-                   .catch((err) => console.error
-                   `Failed to update hasAddedRes
-                   due to ${err}`)}
                 /></h1>
             <ResumeDropzone
               onFileUrlChange={onFileUrlChange}
