@@ -74,7 +74,7 @@ const QAS = [
       <p>
         ResumeGPT was created by{" "}
         <Link href="https://github.com/Amatun-nooor">Amatun-Noor</Link> and designed
-        by <Link href="https://www.linkedin.com/in/amatun-noor/">Amatun-noor</Link> as
+        by <Link href="https://www.linkedin.com/in/amatun-noor/">Alice</Link> as
         a weekend project. As applying to the companies, we had made many mistakes
         when creating our first resumes and applying for internships and jobs.
         It took us a long while to learn some of the best practices. While
