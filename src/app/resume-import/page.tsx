@@ -48,10 +48,9 @@ export default function ImportResume() {
                 <OrDivider />
               </>
             )}
-            <h1 className="font-semibold text-gray-900">
-                <SectionWithHeadingAndCreateButton
-                   buttonText="Override data with a new resume"
-                /></h1>
+            <h1 className="font-semibold text-gray-900"></h1>
+                   Override data with a new resume
+            </h1>
             <ResumeDropzone
               onFileUrlChange={onFileUrlChange}
               className="mt-5"
